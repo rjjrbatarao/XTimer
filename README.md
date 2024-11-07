@@ -12,7 +12,7 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 ## 1 Unplug and replug esp32 to get port number from Device Manager. 
 ![image](https://github.com/user-attachments/assets/04ab6b2d-0027-4e64-ad6d-d5985d49535d)
 
-## 2 Double click start_flash.bat.
+## 2 Double click start_flash.bat extracted from firmware.zip.
 ![image](https://github.com/user-attachments/assets/086825ae-aec2-4fc7-aacc-122e5e12e881)
 
 ## 3 Enter the COM port number like in the picture and press enter.
