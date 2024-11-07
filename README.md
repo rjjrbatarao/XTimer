@@ -32,5 +32,9 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 - upto 10 profiles
 
 ## Unlocked
-- No limit 
+- No limit
+
+## Ads Photo
+
+![Ads-XHelmet](https://github.com/user-attachments/assets/e6cee0da-c3b7-43c0-a1bf-7f5e09cdc7a6)
 
