@@ -2,7 +2,7 @@
 XHelmet firmware and flasher docs
 
 ## Before flashing
-Install required serial drivers cp210x and ch340
+Install required serial drivers cp210x and ch340, get this from drivers folder.
 
 ## How to flash
 Go to release page or click this link [release](https://github.com/rjjrbatarao/XHelmet/releases/tag/v1.0.0-beta) and download firmware.zip
