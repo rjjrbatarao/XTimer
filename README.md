@@ -1,5 +1,6 @@
 # XHelmet
 XHelmet firmware and flasher docs
+![ads1](https://github.com/user-attachments/assets/12442bd3-d2d2-4fe1-82b4-f3032c1f2adb)
 
 ## Before flashing
 Install required serial drivers cp210x and ch340, get this from drivers folder.
