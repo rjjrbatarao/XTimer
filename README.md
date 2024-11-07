@@ -1,2 +1,22 @@
 # XHelmet
 XHelmet firmware and flasher docs
+
+## Before flashing
+Install required serial drivers cp210x and ch340
+
+## How to flash
+Go to release page or click this link [release](https://github.com/rjjrbatarao/XHelmet/releases/tag/v1.0.0-beta) and download firmware.zip
+connect ESP32 to computer and open device manager take note the COM port number
+extract firmware.zip and doubleclick `start_flash.bat`.
+
+## 1 Unplug and replug esp32 to get port number from Device Manager. 
+![image](https://github.com/user-attachments/assets/04ab6b2d-0027-4e64-ad6d-d5985d49535d)
+
+## 2 Double click start_flash.bat.
+![image](https://github.com/user-attachments/assets/086825ae-aec2-4fc7-aacc-122e5e12e881)
+
+## 3 Enter the COM port number like in the picture and press enter.
+![image](https://github.com/user-attachments/assets/5aca8703-3d52-4f63-9aee-1ff7dcb22a30)
+
+## 4 Once done it should show press any key to continue.
+![image](https://github.com/user-attachments/assets/63c0340e-661f-44b5-b3ec-7f2ea1a9bdfb)
