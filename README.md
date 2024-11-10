@@ -39,6 +39,14 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 ## Unlocked
 - No limit
 
+## Materials for controller
+![ads3](https://github.com/user-attachments/assets/7e833f1a-5248-4aba-a9c3-f8fc5fdabc01)
+
+
+## Other materials for operation
+![Other-Accesories](https://github.com/user-attachments/assets/97daf9f2-d3c5-4aaf-82e1-ad74269708d0)
+
+
 ## Ads Photo
 
 ![Ads-XHelmet](https://github.com/user-attachments/assets/e6cee0da-c3b7-43c0-a1bf-7f5e09cdc7a6)
