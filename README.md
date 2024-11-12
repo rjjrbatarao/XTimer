@@ -44,7 +44,8 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 
 
 ## Other materials for operation
-![Other-Accesories](https://github.com/user-attachments/assets/97daf9f2-d3c5-4aaf-82e1-ad74269708d0)
+![Other-Accesories](https://github.com/user-attachments/assets/1237b2e9-736a-4895-a0c2-a15abb75f9c2)
+
 
 
 ## Ads Photo
