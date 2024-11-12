@@ -1,6 +1,19 @@
 # XHelmet
 ![banner_cut](https://github.com/user-attachments/assets/99eee2d1-7695-4efb-9c34-b7b9e95aafb4)
 
+Features:
+- 7+ multiple modes
+- AI voice feature
+- upto 8 relay customizable timer operation
+- Supports Fogger, Dryer, Ozone, Fan, Linear actuator
+- Supports 20x4, 16x2, 4 digit 14 segment display
+- Offline and Online sales report total or downloadable excel file
+- advance process/stages builder through the profile builder
+- tenant and superadmin account
+- permission manager disable some pages seen by tenant
+- backup credits on power loss
+- editable lcd messages per process including startup message, coin message and proccesses
+- initial login setup for faster provisioning
 
 ## Updated Basic Mode diagram
 ![Updated-Basic-Mode](https://github.com/user-attachments/assets/5919dafd-04e0-4c2c-9062-f3c2436756c3)
