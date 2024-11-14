@@ -18,6 +18,9 @@ Features:
 ## Updated Basic Mode diagram
 ![Updated-Basic-Mode](https://github.com/user-attachments/assets/5919dafd-04e0-4c2c-9062-f3c2436756c3)
 
+## Updated 3 wire mod for Fog machine
+![Fog-Machine-Mod-3-Wire](https://github.com/user-attachments/assets/85a23418-ecc6-4d1d-8f08-1cd1d00237b9)
+
 ## Before flashing
 Install required serial drivers cp210x and ch340, get this from drivers folder.
 ![image](https://github.com/user-attachments/assets/d0906cb0-5c3d-4f60-9ccf-f7dfe156bc0c)
