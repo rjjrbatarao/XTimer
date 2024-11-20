@@ -14,7 +14,7 @@
 | Quick setup initial | :white_check_mark:   | :x:   |
 | Dual account - tenant/superadmin | :white_check_mark:   | :x:   |
 | Permission manager | :white_check_mark:   | :x:   |
-| Sales resettable | :white_check_mark:   | :x:   |
+| Sales resettable | :white_check_mark:   | :white_check_mark:   |
 | Sales .csv download | :white_check_mark:   | :x:   |
 | Sales web dashboard total | :white_check_mark:   | :white_check_mark:   |
 | Customizable LCD message per process | :white_check_mark:   | :x:   |
@@ -22,20 +22,21 @@
 | AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
 | Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
-| Credit Power Outage recover | :white_check_mark:   | ❓:   |
+| Credit Power Outage recover | :white_check_mark:   | ❓   |
 | Online sales report | :white_check_mark:   | :x:   |
-| Offline sales report | :white_check_mark:   | ❓:   |
+| Offline sales report | :white_check_mark:   | ❓   |
 | Telegram sales variables | :white_check_mark:   | :x:   |
 | Firmware update | :white_check_mark:   | :x:   |
 | Multi LCD module support | :white_check_mark:   | :x:   |
 | Multi MP3 module support | :white_check_mark:   | :x:   |
 | Power on delay | :white_check_mark:   | :x:   |
 | Anti surge protection | :white_check_mark:   | :x:   |
-| Customized PCB vending | :white_check_mark:   | ❓:   |
+| Customized PCB vending | :white_check_mark:   | ❓   |
 | Modular kit | :white_check_mark:   | :white_check_mark:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
+| Mobile App | :soon:   | :white_check_mark:   |
 
 ## Updated Basic Mode diagram
 ![Updated-Basic-Mode](https://github.com/user-attachments/assets/5919dafd-04e0-4c2c-9062-f3c2436756c3)
