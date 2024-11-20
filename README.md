@@ -36,7 +36,7 @@
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
-| Mobile App | :soon:   | :white_check_mark:   |
+| Mobile App | :x:   | :white_check_mark:   |
 
 ## Updated Basic Mode diagram
 ![Updated-Basic-Mode](https://github.com/user-attachments/assets/5919dafd-04e0-4c2c-9062-f3c2436756c3)
