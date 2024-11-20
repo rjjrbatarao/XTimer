@@ -11,7 +11,7 @@
 | Process import/export | :white_check_mark:   | :x:   |
 | Customizable pin mapping | :white_check_mark:   | :x:   |
 | WiFi web-app config/dashboard | :white_check_mark:   | :white_check_mark:   |
-| Quick setup initial | :white_check_mark:   | :x:   |
+| Quick setup initial | :white_check_mark:   | ❓   |
 | Dual account - tenant/superadmin | :white_check_mark:   | :x:   |
 | Permission manager | :white_check_mark:   | :x:   |
 | Sales resettable | :white_check_mark:   | :white_check_mark:   |
