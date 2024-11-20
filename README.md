@@ -1,5 +1,5 @@
 # XHelmet
-Free to try fully advance helmet vending firmware for ESP32 and supports many CB.
+Free to try fully advance Do It Yourself helmet vending firmware for ESP32 and supports 99% of Custom Boards including JuanFi, Fuxionlab, Naek, Dafox and many other kiosk and piso wifi boards.
 
 ##  Feature Technologies
 | Features | #XHelmet    | #Others    |
