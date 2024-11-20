@@ -1,8 +1,7 @@
 # XHelmet
-![banner_cut](https://github.com/user-attachments/assets/99eee2d1-7695-4efb-9c34-b7b9e95aafb4)
+Free to try fully advance helmet vending firmware for ESP32 and supports many CB.
 
 ##  Feature Technologies
-
 | Features | #XHelmet    | #Others    |
 | :-------------------------------------:   | :---: | :---: |
 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
