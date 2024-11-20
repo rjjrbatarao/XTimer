@@ -75,7 +75,7 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 - upto 10 profiles
 
 ## Unlocked
-- No limit
+- No feature limit
 
 ## Materials for controller
 ![ads3](https://github.com/user-attachments/assets/7e833f1a-5248-4aba-a9c3-f8fc5fdabc01)
