@@ -24,7 +24,7 @@
 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
 | Credit Power Outage recover | :white_check_mark:   | ❓   |
 | Online sales report | :white_check_mark:   | :x:   |
-| Offline sales report | :white_check_mark:   | ❓   |
+| Offline sales report | :white_check_mark:   | :white_check_mark:   |
 | Telegram sales variables | :white_check_mark:   | :x:   |
 | Firmware update | :white_check_mark:   | :x:   |
 | Multi LCD module support | :white_check_mark:   | :x:   |
