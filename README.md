@@ -10,7 +10,7 @@
 | Add process ondemand | :white_check_mark:   | :x:   |
 | Process import/export | :white_check_mark:   | :x:   |
 | Customizable pin mapping | :white_check_mark:   | :x:   |
-| WiFi config/dashboard | :white_check_mark:   | :white_check_mark:   |
+| WiFi web-app config/dashboard | :white_check_mark:   | :white_check_mark:   |
 | Quick setup initial | :white_check_mark:   | :x:   |
 | Dual account - tenant/superadmin | :white_check_mark:   | :x:   |
 | Permission manager | :white_check_mark:   | :x:   |
