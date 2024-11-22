@@ -145,7 +145,8 @@ Follow the diagram for wiring
 
 
 ## Other materials for operation
-![Other-Accesories](https://github.com/user-attachments/assets/6fb69ee6-bc7c-4c88-9e7b-333c69c1fc7e)
+![Other-Accesories](https://github.com/user-attachments/assets/42fec15b-cd24-4184-b4f2-af965a874af0)
+
 
 
 
