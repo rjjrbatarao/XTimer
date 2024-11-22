@@ -24,7 +24,8 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
 | Customizable Voice per process | :white_check_mark:   | ❓   |
 | Dynamic Mode/Setup | :white_check_mark:   | ❓   |
-| Pin remap | :white_check_mark:   | ❓   |
+| Logo Changeable | :white_check_mark:   | ❓   |
+| Pin remapping | :white_check_mark:   | ❓   |
 | Fogging | :white_check_mark:   | :white_check_mark:   |
 | Ultraviolet | :white_check_mark:   | :white_check_mark:   |
 | Drying | :white_check_mark:   | :white_check_mark:   |
