@@ -22,6 +22,7 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Customizable LCD message per process | :white_check_mark:   | :x:   |
 | LCD message variable | :white_check_mark:   | :x:   |
 | AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
+| Customizable Voice per process | :white_check_mark:   | ❓   |
 | Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
 | Credit Power Outage recover | :white_check_mark:   | ❓   |
