@@ -23,8 +23,13 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | LCD message variable | :white_check_mark:   | :x:   |
 | AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
 | Customizable Voice per process | :white_check_mark:   | ❓   |
-| Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
+| Dynamic Mode/Setup | :white_check_mark:   | ❓   |
+| Pin remap | :white_check_mark:   | ❓   |
+| Fogging | :white_check_mark:   | :white_check_mark:   |
+| Ultraviolet | :white_check_mark:   | :white_check_mark:   |
+| Drying | :white_check_mark:   | :white_check_mark:   |
 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
+| Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
 | Credit Power Outage recover | :white_check_mark:   | ❓   |
 | Online sales report | :white_check_mark:   | :x:   |
 | Offline sales report | :white_check_mark:   | :white_check_mark:   |
