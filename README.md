@@ -85,6 +85,38 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 
 ## Enjoy!!!!
 
+## Pin Remapping for coinslot and coin_cut
+`pin_coin_level 1 is logic high, 2 is logic low`
+```json
+{
+  "pin_coin": "12",
+  "pin_coin_cut": "13",
+  "pin_coin_level": "1",
+  "pin_sda": "21",
+  "pin_scl": "22",
+  "pin_spk": "27"
+}
+```
+## Pin Remapping for built-in pin output
+`io_mode 1 sets to pcf8754 if 2 sets to internal pins
+pin_out_level 1 is logic high, 2 is logic low`
+```json
+{
+  "io_mode": "2",
+  "pin_out_level": "1",
+  "pin_p0": "26",
+  "pin_p1": "25",
+  "pin_p2": "33",
+  "pin_p3": "32"
+}
+```
+## Using Postman to change settings
+Follow the image
+![image](https://github.com/user-attachments/assets/c7a1ec70-3df1-44ea-a44b-4c6ea3c471d4)
+Set authorization
+![image](https://github.com/user-attachments/assets/d8a68ddd-e1e7-4635-863e-9bd4cd1a20f6)
+
+
 ## Free 
 - Free upto 4 relay
 - no sales / telegram
