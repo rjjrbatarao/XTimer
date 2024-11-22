@@ -49,8 +49,9 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Multi fog solution | :soon:   | :white_check_mark:   |
 | Mobile App | :x:   | :white_check_mark:   |
 
-## Updated Basic Mode diagram
-![Updated-Basic-Mode](https://github.com/user-attachments/assets/5919dafd-04e0-4c2c-9062-f3c2436756c3)
+## Updated Basic Mode SSR diagram
+![Updated-Basic-SSR-Mode](https://github.com/user-attachments/assets/e136bfe7-37db-491f-8916-a17a0cd0c064)
+
 
 ## Updated 3 wire mod for Fog machine
 ![Fog-Machine-Mod-3-Wire](https://github.com/user-attachments/assets/85a23418-ecc6-4d1d-8f08-1cd1d00237b9)
