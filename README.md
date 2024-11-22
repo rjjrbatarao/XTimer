@@ -60,7 +60,8 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 
 
 ## Updated 3 wire mod for Fog machine
-![Fog-Machine-Mod-3-Wire](https://github.com/user-attachments/assets/85a23418-ecc6-4d1d-8f08-1cd1d00237b9)
+![Fog-Machine-Mod-3-Wire](https://github.com/user-attachments/assets/0267a47a-bf35-4340-81af-96fa9df18ad9)
+
 
 ## New AI Voice diagram
 ![MP3_module_diagram](https://github.com/user-attachments/assets/9e68a725-a8d2-44a6-9584-87b8c34035be)
