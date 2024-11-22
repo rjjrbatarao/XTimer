@@ -111,9 +111,10 @@ pin_out_level 1 is logic high, 2 is logic low`
 }
 ```
 ## Using Postman to change settings
-Follow the image
-![image](https://github.com/user-attachments/assets/c7a1ec70-3df1-44ea-a44b-4c6ea3c471d4)
-Set authorization
+`Follow the image`
+![image](https://github.com/user-attachments/assets/4b7c3df7-969a-411f-a7c0-4305d01bc8db)
+
+`Set authorization`
 ![image](https://github.com/user-attachments/assets/d8a68ddd-e1e7-4635-863e-9bd4cd1a20f6)
 
 
