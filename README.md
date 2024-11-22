@@ -43,6 +43,7 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Customized PCB vending | :white_check_mark:   | ❓   |
 | Modular kit | :white_check_mark:   | :white_check_mark:   |
 | Liquid Level sensor | :soon:   | :x:   |
+| Liquid Level notifier | :soon:   | :x:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
