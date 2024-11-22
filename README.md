@@ -50,7 +50,13 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Mobile App | :x:   | :white_check_mark:   |
 
 ## Updated Basic Mode SSR diagram
-![Updated-Basic-SSR-Mode](https://github.com/user-attachments/assets/e136bfe7-37db-491f-8916-a17a0cd0c064)
+![Updated-Basic-SSR-Mode](https://github.com/user-attachments/assets/fa9e4443-1720-48d2-a74e-caf34bcfbaca)
+
+## Updated Basic Mode Relay diagram
+![Updated-Basic-Relay-Mode](https://github.com/user-attachments/assets/e60609bb-aa72-4cbf-ba37-a39d00489df9)
+
+## Update Basic Mode Direct diagram
+![Updated-Basic-Direct-Mode](https://github.com/user-attachments/assets/830ea6eb-785e-4df5-8069-f259a596c8f1)
 
 
 ## Updated 3 wire mod for Fog machine
