@@ -123,6 +123,12 @@ pin_out_level 1 is logic high, 2 is logic low`
 `Set authorization`
 ![image](https://github.com/user-attachments/assets/d8a68ddd-e1e7-4635-863e-9bd4cd1a20f6)
 
+## Ai Voice Assist
+download ai voice tagalog.zip folder
+extract zip and copy only `.mp3` files to DY-XXXX players, for DFplayer copy to mp3 folder and reduce the character to only 4 by removing leading 0.
+![image](https://github.com/user-attachments/assets/55d860c4-d569-4c8d-8984-6e8dd25dea17)
+Follow the diagram for wiring
+
 
 ## Free 
 - Free upto 4 relay
