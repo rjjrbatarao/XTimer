@@ -42,8 +42,8 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Anti surge protection | :white_check_mark:   | :x:   |
 | Customized PCB vending | :white_check_mark:   | ❓   |
 | Modular kit | :white_check_mark:   | :white_check_mark:   |
-| Liquid Level sensor | :soon:   | :x:   |
-| Liquid Level notifier | :soon:   | :x:   |
+| Liquid Level sensor | :white_check_mark:   | ❓   |
+| Liquid Level notifier | :white_check_mark:   | :x:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
