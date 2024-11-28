@@ -130,6 +130,9 @@ extract zip and copy only `.mp3` files to DY-XXXX players, for DFplayer copy to 
 Follow the diagram for wiring
 ![image](https://github.com/user-attachments/assets/55d860c4-d569-4c8d-8984-6e8dd25dea17)
 
+## Telegram create bot guide
+`The id and token created here will be used in telegram settings in xhelmet`
+![Telegram-Guide](https://github.com/user-attachments/assets/6aeb9866-3c21-489e-9ce9-97e0de4bab8e)
 
 
 ## Free 
