@@ -46,7 +46,7 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Liquid Level notifier | :white_check_mark:   | :x:   |
 | Coin cut while cleaning | :soon:    | :x:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
-| GCash QR payment | :soon:   | :x:   |
+| Maya/GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
 | Cloud monitor dashboard platform | :soon:   | :x:   |
 | Mobile App | ❓   | :white_check_mark:   |
