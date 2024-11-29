@@ -5,7 +5,7 @@ Free to try fully advance Do It Yourself helmet vending firmware for ESP32 and s
 Our mission it to innovate Vending businesses, through competitive and highly technologically advance vending features. Our vision is to step up product standards and quality for safe and cost effective vending machines.
 
 ##  Feature Technologies
-| Features | XHelmet    | Others    |
+| Features | XHelmet    | Other vendo    |
 | :-------------------------------------:   | :---: | :---: |
 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
 | Editable Cleaning Processes | :white_check_mark:   | :x:   |
