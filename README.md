@@ -4,6 +4,10 @@ Free fully advance Do It Yourself helmet vending firmware using ESP32, supports 
 ## Mission & Vision
 Our mission it to innovate Vending businesses, through competitive and highly technologically advance vending features. Our vision is to step up product standards and quality for safe and cost effective vending machines.
 
+## Walk Through Video
+https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
+
+
 ##  Feature Technologies
 | Features | XHelmet    | Other vendo    |
 | :-------------------------------------:   | :---: | :---: |
@@ -50,6 +54,9 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Multi fog solution | :soon:   | :white_check_mark:   |
 | Cloud monitor dashboard platform | :soon:   | :x:   |
 | Mobile App | ❓   | :white_check_mark:   |
+
+## Set jumper pin expander
+![LCD_EXPANDER_DIRECT_WIRING](https://github.com/user-attachments/assets/72399b09-3b37-4861-a236-9c9545e727c2)
 
 ## Updated Basic Mode SSR diagram
 ![Updated-Basic-SSR-Mode](https://github.com/user-attachments/assets/fa9e4443-1720-48d2-a74e-caf34bcfbaca)
