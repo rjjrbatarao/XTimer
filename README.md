@@ -48,7 +48,7 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
-| Mobile App | :x:   | :white_check_mark:   |
+| Mobile App | ❓   | :white_check_mark:   |
 
 ## Updated Basic Mode SSR diagram
 ![Updated-Basic-SSR-Mode](https://github.com/user-attachments/assets/fa9e4443-1720-48d2-a74e-caf34bcfbaca)
