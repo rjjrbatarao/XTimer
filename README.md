@@ -48,7 +48,7 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
-| Cloud monitor cluster dashboard platform | :soon:   | :x:   |
+| Cloud monitor dashboard platform | :soon:   | :x:   |
 | Mobile App | ❓   | :white_check_mark:   |
 
 ## Updated Basic Mode SSR diagram
