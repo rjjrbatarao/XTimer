@@ -44,6 +44,7 @@ Our mission it to innovate Vending businesses, through competitive and highly te
 | Modular kit | :white_check_mark:   | :white_check_mark:   |
 | Liquid Level sensor | :white_check_mark:   | ❓   |
 | Liquid Level notifier | :white_check_mark:   | :x:   |
+| Coin cut while cleaning | :soon:    | :x:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
 | GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
