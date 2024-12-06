@@ -49,6 +49,8 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Liquid Level sensor | :white_check_mark:   | ❓   |
 | Liquid Level notifier | :white_check_mark:   | :x:   |
 | Coin cut while cleaning | :white_check_mark:    | :x:   |
+| Software volume control | :soon:   | :x:   |
+| Bypass mode with options | :soon:   | :x:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
 | Maya/GCash QR payment | :soon:   | :x:   |
 | Multi fog solution | :soon:   | :white_check_mark:   |
