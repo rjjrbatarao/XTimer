@@ -55,7 +55,8 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Bypass mode with options | :soon:   | :x:   |
 | Touch screen graphic lcd | :soon:   | :x:   |
 | Maya/GCash QR payment | :soon:   | :x:   |
-| Multi fog solution | :soon:   | :white_check_mark:   |
+| Profile Builder/Loader | :soon:   | :x:   |
+| Multi fog solution(profile loader) | :soon:   | :white_check_mark:   |
 | Cloud monitor dashboard platform | :soon:   | :x:   |
 | Mobile App | ❓   | :white_check_mark:   |
 
