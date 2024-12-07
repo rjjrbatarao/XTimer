@@ -50,6 +50,7 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Liquid Level notifier | :white_check_mark:   | :x:   |
 | Coin cut while cleaning | :white_check_mark:    | :x:   |
 | Complete wireless settings | :soon:   | :x:   |
+| Kiosk mode | :soon:   | :x:   |
 | Motion sensing voice activate | :soon:   | :x:   |
 | Software volume control | :soon:   | :x:   |
 | Bypass mode with options | :soon:   | :x:   |
