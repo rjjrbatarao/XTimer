@@ -107,7 +107,8 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 ![image](https://github.com/user-attachments/assets/63c0340e-661f-44b5-b3ec-7f2ea1a9bdfb)
 
 ## Your device will reboot, when ready Blue light connect to `hvfl-xxxxxxxxxxxx` WiFi.
-- follow through the setup process. you can press Next to skip all and can still use XHelmet without license.
+- Ip address is 192.168.4.1 follow through the setup process. you can press Next to skip all and can still use XHelmet without license.
+![image](https://github.com/user-attachments/assets/eaa61b71-0a96-4249-84ce-97330d2e6ece)
 
 ## Enjoy!!!!
 
