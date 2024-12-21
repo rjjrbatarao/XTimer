@@ -111,12 +111,14 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 `pin_coin_level 1 is logic high, 2 is logic low`
 ```json
 {
-  "pin_coin": "12",
-  "pin_coin_cut": "13",
+  "pin_coin": "15",
+  "pin_coin_cut": "2",
   "pin_coin_level": "1",
   "pin_sda": "21",
   "pin_scl": "22",
-  "pin_spk": "27"
+  "pin_spk": "27",
+  "pin_bill_rx": "16",
+  "pin_night": "23"
 }
 ```
 ## Pin Remapping for built-in pin output
