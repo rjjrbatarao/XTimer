@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Drying | :white_check_mark:   | :white_check_mark:   |
 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
 | Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
+| Anticlogging Process | :white_check_mark:   | ❓   |
 | Credit Power Outage recover | :white_check_mark:   | ❓   |
 | Online sales report | :white_check_mark:   | :x:   |
 | Offline sales report | :white_check_mark:   | :white_check_mark:   |
