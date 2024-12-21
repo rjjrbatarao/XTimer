@@ -49,15 +49,17 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Liquid Level sensor | :white_check_mark:   | ❓   |
 | Liquid Level notifier | :white_check_mark:   | :x:   |
 | Coin cut while cleaning | :white_check_mark:    | :x:   |
+| 3 acceptor mode coin,bill,coin+bill | :white_check_mark:   | ❓   |
+| support for single coin type | :white_check_mark:   | ❓   |
 | Complete wireless settings | :soon:   | :x:   |
 | Kiosk mode | :soon:   | :x:   |
 | Motion sensing voice activate | :soon:   | :x:   |
 | Software volume control | :soon:   | :x:   |
-| Bypass mode with options | :soon:   | :x:   |
+| Bypass mode with options | :white_check_mark:   | ❓   |
 | Touch screen display | :soon:   | :x:   |
 | Maya/GCash QR payment | :soon:   | :x:   |
 | Profile Builder/Loader | :soon:   | :x:   |
-| Multi fog solution(profile loader) | :soon:   | :white_check_mark:   |
+| Multi fog solution(profile loader) | :soon:   | ❓   |
 | Cloud monitor dashboard platform | :soon:   | :x:   |
 | Mobile App | ❓   | :white_check_mark:   |
 
