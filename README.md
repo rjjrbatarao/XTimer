@@ -51,6 +51,7 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Coin cut while cleaning | :white_check_mark:    | :x:   |
 | 3 acceptor mode coin,bill,coin+bill | :white_check_mark:   | ❓   |
 | support for single coin type | :white_check_mark:   | ❓   |
+| Custom dns name | :white_check_mark:   | :x:   |
 | Complete wireless settings | :soon:   | :x:   |
 | Kiosk mode | :soon:   | :x:   |
 | Motion sensing voice activate | :soon:   | :x:   |
