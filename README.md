@@ -60,8 +60,8 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Bypass mode with options | :white_check_mark:   | ❓   |
 | Touch screen display | :soon:   | :x:   |
 | Maya/GCash QR payment | :soon:   | :x:   |
-| Profile Builder/Loader | :soon:   | :x:   |
-| Multi fog solution(profile loader) | :soon:   | ❓   |
+| Profile Builder/Loader | :white_check_mark:   | :x:   |
+| Multi fog solution(profile loader) | :white_check_mark:   | ❓   |
 | Cloud monitor dashboard platform | :soon:   | :x:   |
 | Mobile App | ❓   | :white_check_mark:   |
 
@@ -123,7 +123,9 @@ extract firmware.zip and doubleclick `start_flash.bat`.
   "pin_scl": "22",
   "pin_spk": "27",
   "pin_bill_rx": "16",
-  "pin_night": "23"
+  "pin_night": "13",
+  "pin_button" : "19",
+  "pin_low" : "23"
 }
 ```
 ## Pin Remapping for built-in pin output
@@ -161,6 +163,7 @@ If voice is offset use the tagalog_offset.zip
 - Free upto 4 relay
 - no sales / telegram
 - upto 10 profiles
+- 2 fragrance solution
 
 ## Unlocked
 - No feature limit
