@@ -1,15 +1,15 @@
-# XHelmet
-Free fully advance Do It Yourself helmet vending firmware using ESP32, supports 99% of Custom Boards including JuanFi, Fuxionlab, Naek, Dafox and many other kiosk or piso wifi and base boards. 
+# XTimer
+Free fully advance Do It Yourself vending timer firmware using ESP32, supports 99% of Custom Boards including JuanFi, Fuxionlab, Naek, Dafox and many other kiosk or piso wifi and base boards. 
 
 ## Mission & Vision
-Our mission it to innovate Vending businesses, through competitive and highly technologically advance vending features. Our vision is to step up product standards and quality for safe and cost effective vending machines.
+Our mission it to innovate vending businesses, through competitive and highly technologically advance vending timer features. Our vision is to step up product standards and quality for safe and cost effective vending machines.
 
 ## Walk Through Video
 https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
 
 ##  Feature Technologies
-| Features | XHelmet    | Other vendo    |
+| Features | XTimer    | Other vendo    |
 | :-------------------------------------:   | :---: | :---: |
 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
 | Editable Cleaning Processes | :white_check_mark:   | :x:   |
@@ -90,7 +90,7 @@ Install required serial drivers cp210x and ch340, get this from drivers folder.
 ![image](https://github.com/user-attachments/assets/d0906cb0-5c3d-4f60-9ccf-f7dfe156bc0c)
 
 ## How to flash
-Go to release page or click this link [release](https://github.com/rjjrbatarao/XHelmet/releases) and download `firmware.zip`
+Go to release page or click this link [release](https://github.com/rjjrbatarao/XTimer/releases) and download `firmware.zip`
 connect ESP32 to computer and open device manager take note the COM port number
 extract firmware.zip and doubleclick `start_flash.bat`.
 
@@ -107,7 +107,7 @@ extract firmware.zip and doubleclick `start_flash.bat`.
 ![image](https://github.com/user-attachments/assets/63c0340e-661f-44b5-b3ec-7f2ea1a9bdfb)
 
 ## Your device will reboot, when ready Blue light connect to `hvfl-xxxxxxxxxxxx` WiFi.
-- Ip address is 192.168.4.1 follow through the setup process. you can press Next to skip all and can still use XHelmet without license.
+- Ip address is 192.168.4.1 follow through the setup process. you can press Next to skip all and can still use XTimer without license.
 ![image](https://github.com/user-attachments/assets/eaa61b71-0a96-4249-84ce-97330d2e6ece)
 
 ## Enjoy!!!!
@@ -153,7 +153,7 @@ If voice is offset use the tagalog_offset.zip
 ![image](https://github.com/user-attachments/assets/55d860c4-d569-4c8d-8984-6e8dd25dea17)
 
 ## Telegram create bot guide
-`The id and token created here will be used in telegram settings in xhelmet`
+`The id and token created here will be used in telegram settings in xtimer`
 ![Telegram-Guide](https://github.com/user-attachments/assets/6aeb9866-3c21-489e-9ce9-97e0de4bab8e)
 
 
