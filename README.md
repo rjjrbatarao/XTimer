@@ -8,7 +8,7 @@ Our mission it to innovate vending businesses, through competitive and highly te
 https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
 
-##  Feature Technologies
+##  Feature List
 | Features | XTimer    | Other vendo    |
 | :-------------------------------------:   | :---: | :---: |
 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
