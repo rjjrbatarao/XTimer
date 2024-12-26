@@ -76,11 +76,10 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
 ## Update Basic Mode Direct diagram
 ![Updated-Basic-Direct-Mode](https://github.com/user-attachments/assets/830ea6eb-785e-4df5-8069-f259a596c8f1)
-
+![Fog-Machine-Mod-Dual-NC-3-Wire](https://github.com/user-attachments/assets/0a38096b-6891-469e-9e2a-3d4dfafc8b02)
 
 ## Updated 3 wire mod for Fog machine
 ![Fog-Machine-Mod-3-Wire](https://github.com/user-attachments/assets/af3fe57c-fa43-4cef-908f-7682f29967cc)
-
 
 ## New AI Voice diagram
 ![MP3_module_diagram](https://github.com/user-attachments/assets/9e68a725-a8d2-44a6-9584-87b8c34035be)
