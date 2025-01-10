@@ -9,65 +9,65 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
 
 ##  Feature List
-| Features | XTimer    | Other vendo    |
-| :-------------------------------------:   | :---: | :---: |
-| Editable Time per process | :white_check_mark:   | :white_check_mark:   |
-| Editable Cleaning Processes | :white_check_mark:   | :x:   |
-| Add process ondemand | :white_check_mark:   | :x:   |
-| Process import/export | :white_check_mark:   | :x:   |
-| Customizable pin mapping | :white_check_mark:   | :x:   |
-| WiFi web-app config/dashboard | :white_check_mark:   | :white_check_mark:   |
-| Quick setup initial | :white_check_mark:   | ❓   |
-| Dual account - tenant/superadmin | :white_check_mark:   | :x:   |
-| Permission manager | :white_check_mark:   | :x:   |
-| Sales resettable | :white_check_mark:   | :white_check_mark:   |
-| Sales .csv download | :white_check_mark:   | :x:   |
-| Sales web dashboard total | :white_check_mark:   | :white_check_mark:   |
-| Customizable LCD message per process | :white_check_mark:   | :x:   |
-| LCD message variable | :white_check_mark:   | :x:   |
-| AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
-| Customizable Voice per process | :white_check_mark:   | ❓   |
-| Dynamic Mode/Setup | :white_check_mark:   | ❓   |
-| Logo Branding OEM Changeable | :white_check_mark:   | ❓   |
-| Pin remapping | :white_check_mark:   | ❓   |
-| Fogging | :white_check_mark:   | :white_check_mark:   |
-| Ultraviolet | :white_check_mark:   | :white_check_mark:   |
-| Drying | :white_check_mark:   | :white_check_mark:   |
-| Perfume Mist | :white_check_mark:   | :white_check_mark:   |
-| Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
-| Anticlogging Process | :white_check_mark:   | ❓   |
-| Credit Power Outage recover | :white_check_mark:   | ❓   |
-| Online sales report | :white_check_mark:   | :x:   |
-| Offline sales report | :white_check_mark:   | :white_check_mark:   |
-| Telegram sales variables | :white_check_mark:   | :x:   |
-| Firmware update | :white_check_mark:   | :x:   |
-| Multi LCD module support | :white_check_mark:   | :x:   |
-| Multi MP3 module support | :white_check_mark:   | :x:   |
-| Power on delay | :white_check_mark:   | :x:   |
-| Anti surge protection | :white_check_mark:   | :x:   |
-| Customized PCB vending | :white_check_mark:   | ❓   |
-| Modular kit | :white_check_mark:   | :white_check_mark:   |
-| Liquid Level sensor | :white_check_mark:   | ❓   |
-| Liquid Level notifier | :white_check_mark:   | :x:   |
-| Coin cut while cleaning | :white_check_mark:    | :x:   |
-| 3 acceptor mode coin,bill,coin+bill | :white_check_mark:   | ❓   |
-| support for single coin type | :white_check_mark:   | ❓   |
-| Dual helmet setup in 1 | :white_check_mark:   | ❓   |
-| Multi package (quick, deep clean, etc) | :white_check_mark:   | ❓   |
-| Full system backup clone | :white_check_mark:   | :x:   |
-| Multi package | :white_check_mark:   | :x:   |
-| Custom dns name | :white_check_mark:   | :x:   |
-| Complete wireless settings | :soon:   | :x:   |
-| Kiosk mode | :soon:   | :x:   |
-| Motion sensing voice activate | :soon:   | :x:   |
-| Software volume control | :soon:   | :x:   |
-| Bypass mode with options | :white_check_mark:   | ❓   |
-| Touch screen display | :soon:   | :x:   |
-| Maya/GCash QR payment | :soon:   | :x:   |
-| Profile Builder/Loader | :white_check_mark:   | :x:   |
-| Multi fog solution(profile loader) | :white_check_mark:   | ❓   |
-| Cloud monitor dashboard platform | :soon:   | :x:   |
-| Mobile App | ❓   | :white_check_mark:   |
+| # | Features | XTimer    | Other vendo    |
+| | :--: | :-------------------------------------:   | :---: | :---: |
+| 1 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
+| 2 | Editable Cleaning Processes | :white_check_mark:   | :x:   |
+| 3 | Add process ondemand | :white_check_mark:   | :x:   |
+| 4 | Process import/export | :white_check_mark:   | :x:   |
+| 5 | Customizable pin mapping | :white_check_mark:   | :x:   |
+| 6 | WiFi web-app config/dashboard | :white_check_mark:   | :white_check_mark:   |
+| 7 | Quick setup initial | :white_check_mark:   | ❓   |
+| 8 | Dual account - tenant/superadmin | :white_check_mark:   | :x:   |
+| 9 | Permission manager | :white_check_mark:   | :x:   |
+| 10 | Sales resettable | :white_check_mark:   | :white_check_mark:   |
+| 11 | Sales .csv download | :white_check_mark:   | :x:   |
+| 12 | Sales web dashboard total | :white_check_mark:   | :white_check_mark:   |
+| 13 | Customizable LCD message per process | :white_check_mark:   | :x:   |
+| 14 | LCD message variable | :white_check_mark:   | :x:   |
+| 15 | AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
+| 16 | Customizable Voice per process | :white_check_mark:   | ❓   |
+| 17 | Dynamic Mode/Setup | :white_check_mark:   | ❓   |
+| 18 | Logo Branding OEM Changeable | :white_check_mark:   | ❓   |
+| 19 | Pin remapping | :white_check_mark:   | ❓   |
+| 20 | Fogging | :white_check_mark:   | :white_check_mark:   |
+| 21 | Ultraviolet | :white_check_mark:   | :white_check_mark:   |
+| 22 | Drying | :white_check_mark:   | :white_check_mark:   |
+| 23 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
+| 24 | Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
+| 25 | Anticlogging Process | :white_check_mark:   | ❓   |
+| 26 | Credit Power Outage recover | :white_check_mark:   | ❓   |
+| 27 | Online sales report | :white_check_mark:   | :x:   |
+| 28 | Offline sales report | :white_check_mark:   | :white_check_mark:   |
+| 29 | Telegram sales variables | :white_check_mark:   | :x:   |
+| 30 | Firmware update | :white_check_mark:   | :x:   |
+| 31 | Multi LCD module support | :white_check_mark:   | :x:   |
+| 32 | Multi MP3 module support | :white_check_mark:   | :x:   |
+| 33 | Power on delay | :white_check_mark:   | :x:   |
+| 34 | Anti surge protection | :white_check_mark:   | :x:   |
+| 35 | Customized PCB vending | :white_check_mark:   | ❓   |
+| 36 | Modular kit | :white_check_mark:   | :white_check_mark:   |
+| 37 | Liquid Level sensor | :white_check_mark:   | ❓   |
+| 38 | Liquid Level notifier | :white_check_mark:   | :x:   |
+| 39 | Coin cut while cleaning | :white_check_mark:    | :x:   |
+| 40 | 3 acceptor mode coin,bill,coin+bill | :white_check_mark:   | ❓   |
+| 41 | support for single coin type | :white_check_mark:   | ❓   |
+| 42 | Dual helmet setup in 1 | :white_check_mark:   | ❓   |
+| 43 | Multi package (quick, deep clean, etc) | :white_check_mark:   | ❓   |
+| 44 | Full system backup clone | :white_check_mark:   | :x:   |
+| 45 | Multi package | :white_check_mark:   | :x:   |
+| 46 | Custom dns name | :white_check_mark:   | :x:   |
+| 47 | Complete wireless settings | :soon:   | :x:   |
+| 48 | Kiosk mode | :soon:   | :x:   |
+| 49 | Motion sensing voice activate | :soon:   | :x:   |
+| 50 | Software volume control | :soon:   | :x:   |
+| 51 | Bypass mode with options | :white_check_mark:   | ❓   |
+| 52 | Touch screen display | :soon:   | :x:   |
+| 53 | Maya/GCash QR payment | :soon:   | :x:   |
+| 54 | Profile Builder/Loader | :white_check_mark:   | :x:   |
+| 55 | Multi fog solution(profile loader) | :white_check_mark:   | ❓   |
+| 56 | Cloud monitor dashboard platform | :soon:   | :x:   |
+| 57 | Mobile App | ❓   | :white_check_mark:   |
 
 ## Set jumper pin expander
 ![LCD_EXPANDER_DIRECT_WIRING](https://github.com/user-attachments/assets/72399b09-3b37-4861-a236-9c9545e727c2)
