@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
 ##  Feature List
 | # | Features | XTimer    | Other vendo    |
-| | :--: | :-------------------------------------:   | :---: | :---: |
+| :--: | :-------------------------------------:   | :---: | :---: |
 | 1 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
 | 2 | Editable Cleaning Processes | :white_check_mark:   | :x:   |
 | 3 | Add process ondemand | :white_check_mark:   | :x:   |
