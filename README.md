@@ -52,6 +52,10 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | Coin cut while cleaning | :white_check_mark:    | :x:   |
 | 3 acceptor mode coin,bill,coin+bill | :white_check_mark:   | ❓   |
 | support for single coin type | :white_check_mark:   | ❓   |
+| Dual helmet setup in 1 | :white_check_mark:   | ❓   |
+| Multi package (quick, deep clean, etc) | :white_check_mark:   | ❓   |
+| Full system backup clone | :white_check_mark:   | :x:   |
+| Multi package | :white_check_mark:   | :x:   |
 | Custom dns name | :white_check_mark:   | :x:   |
 | Complete wireless settings | :soon:   | :x:   |
 | Kiosk mode | :soon:   | :x:   |
