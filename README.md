@@ -66,9 +66,11 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | 53 | Automated Maya/GCash QR payment | :soon:   | :x:   |
 | 54 | Profile Builder/Loader | :white_check_mark:   | :x:   |
 | 55 | Multi fog solution(profile loader) | :white_check_mark:   | ❓   |
-| 56 | Cloud monitor dashboard platform | :soon:   | :x:   |
-| 57 | Mobile App | ❓   | :white_check_mark:   |
+| 56 | Cloud monitor dashboard platform | :white_check_mark:   | :x:   |
+| 57 | Mobile App | :white_check_mark:   | :white_check_mark:   |
 | 58 | Customizable record type | :soon:   | :x:   |
+| 59 | Expander as Multipurpose Sensor | :soon:   | :x:   |
+| 60 | Multi Expander | :white_check_mark:   | :x:   |
 
 ## Set jumper pin expander
 ![LCD_EXPANDER_DIRECT_WIRING](https://github.com/user-attachments/assets/72399b09-3b37-4861-a236-9c9545e727c2)
