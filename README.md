@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | 42 | Dual helmet setup in 1 | :white_check_mark:   | ❓   |
 | 43 | Multi package (quick, deep clean, etc) | :white_check_mark:   | ❓   |
 | 44 | Full system backup clone | :white_check_mark:   | :x:   |
-| 45 | Multi package | :white_check_mark:   | :x:   |
+| 45 | Multi profile package | :white_check_mark:   | :x:   |
 | 46 | Custom dns name | :white_check_mark:   | :x:   |
 | 47 | Wireless on off settings | :white_check_mark:   | :x:   |
 | 48 | Kiosk selection mode | :white_check_mark:   | :x:   |
