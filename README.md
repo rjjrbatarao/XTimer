@@ -57,8 +57,8 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | 44 | Full system backup clone | :white_check_mark:   | :x:   |
 | 45 | Multi package | :white_check_mark:   | :x:   |
 | 46 | Custom dns name | :white_check_mark:   | :x:   |
-| 47 | Complete wireless settings | :soon:   | :x:   |
-| 48 | Kiosk mode | :soon:   | :x:   |
+| 47 | Wireless on off settings | :white_check_mark:   | :x:   |
+| 48 | Kiosk selection mode | :white_check_mark:   | :x:   |
 | 49 | Motion sensing voice activate | :soon:   | :x:   |
 | 50 | Software volume control | :soon:   | :x:   |
 | 51 | Bypass mode complete options | :white_check_mark:   | ❓   |
