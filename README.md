@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 | 49 | Motion sensing voice activate | :soon:   | :x:   |
 | 50 | Software volume control | :soon:   | :x:   |
 | 51 | Bypass mode complete options | :white_check_mark:   | ❓   |
-| 52 | Multi Touch screen control | :soon:   | :x:   |
+| 52 | Multi Touch screen control | :white_check_mark:   | :x:   |
 | 53 | Automated Maya/GCash QR payment | :white_check_mark:   | :x:   |
 | 54 | Profile Builder/Loader | :white_check_mark:   | :x:   |
 | 55 | Multi fog solution(profile loader) | :white_check_mark:   | ❓   |
