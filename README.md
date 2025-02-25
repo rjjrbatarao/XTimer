@@ -7,70 +7,15 @@ Our mission it to innovate vending businesses, through competitive and highly te
 ## Walk Through Video
 https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
-
-##  Feature List
-| # | Features | XTimer    | Others   |
-| :--: | :-------------------------------------:   | :---: | :---: |
-| 1 | Editable Time per process | :white_check_mark:   | :white_check_mark:   |
-| 2 | Editable Cleaning Processes | :white_check_mark:   | :x:   |
-| 3 | Add process ondemand | :white_check_mark:   | :x:   |
-| 4 | Process import/export | :white_check_mark:   | :x:   |
-| 5 | Customizable pin mapping | :white_check_mark:   | :x:   |
-| 6 | WiFi web-app config/dashboard | :white_check_mark:   | :white_check_mark:   |
-| 7 | Quick setup initial | :white_check_mark:   | ❓   |
-| 8 | Dual account - tenant/superadmin | :white_check_mark:   | :x:   |
-| 9 | Permission manager | :white_check_mark:   | :x:   |
-| 10 | Sales resettable | :white_check_mark:   | :white_check_mark:   |
-| 11 | Sales .csv download | :white_check_mark:   | :x:   |
-| 12 | Sales web dashboard total | :white_check_mark:   | :white_check_mark:   |
-| 13 | Customizable LCD message per process | :white_check_mark:   | :x:   |
-| 14 | LCD message variable | :white_check_mark:   | :x:   |
-| 15 | AI Voice assistant | :white_check_mark:   | :white_check_mark:   |
-| 16 | Customizable Voice per process | :white_check_mark:   | ❓   |
-| 17 | Dynamic Mode/Setup | :white_check_mark:   | ❓   |
-| 18 | Logo Branding OEM Changeable | :white_check_mark:   | ❓   |
-| 19 | Pin remapping | :white_check_mark:   | ❓   |
-| 20 | Fogging | :white_check_mark:   | :white_check_mark:   |
-| 21 | Ultraviolet | :white_check_mark:   | :white_check_mark:   |
-| 22 | Drying | :white_check_mark:   | :white_check_mark:   |
-| 23 | Perfume Mist | :white_check_mark:   | :white_check_mark:   |
-| 24 | Ozone Deodorize | :white_check_mark:   | :white_check_mark:   |
-| 25 | Anticlogging Process | :white_check_mark:   | ❓   |
-| 26 | Credit Power Outage recover | :white_check_mark:   | ❓   |
-| 27 | Online sales report | :white_check_mark:   | :x:   |
-| 28 | Offline sales report | :white_check_mark:   | :white_check_mark:   |
-| 29 | Telegram sales variables | :white_check_mark:   | :x:   |
-| 30 | Firmware update | :white_check_mark:   | :x:   |
-| 31 | Multi LCD module support | :white_check_mark:   | :x:   |
-| 32 | Multi MP3 module support | :white_check_mark:   | :x:   |
-| 33 | Power on delay | :white_check_mark:   | :x:   |
-| 34 | Anti surge protection | :white_check_mark:   | :x:   |
-| 35 | Customized PCB vending | :white_check_mark:   | ❓   |
-| 36 | Modular kit | :white_check_mark:   | :white_check_mark:   |
-| 37 | Liquid Level sensor | :white_check_mark:   | ❓   |
-| 38 | Liquid Level notifier | :white_check_mark:   | :x:   |
-| 39 | Coin cut while cleaning | :white_check_mark:    | :x:   |
-| 40 | 3 acceptor mode coin,bill,coin+bill | :white_check_mark:   | ❓   |
-| 41 | support for single coin type | :white_check_mark:   | ❓   |
-| 42 | Dual helmet setup in 1 | :white_check_mark:   | ❓   |
-| 43 | Multi package (quick, deep clean, etc) | :white_check_mark:   | ❓   |
-| 44 | Full system backup clone | :white_check_mark:   | :x:   |
-| 45 | Multi profile package | :white_check_mark:   | :x:   |
-| 46 | Custom dns name | :white_check_mark:   | :x:   |
-| 47 | Wireless on off settings | :white_check_mark:   | :x:   |
-| 48 | Kiosk selection mode | :white_check_mark:   | :x:   |
-| 49 | Motion sensing voice activate | :soon:   | :x:   |
-| 50 | Software volume control | :soon:   | :x:   |
-| 51 | Bypass mode complete options | :white_check_mark:   | ❓   |
-| 52 | Multi Touch screen control | :white_check_mark:   | :x:   |
-| 53 | Automated Maya/GCash QR payment | :white_check_mark:   | :x:   |
-| 54 | Profile Builder/Loader | :white_check_mark:   | :x:   |
-| 55 | Multi fog solution(profile loader) | :white_check_mark:   | ❓   |
-| 56 | Cloud monitor dashboard platform | :white_check_mark:   | :x:   |
-| 57 | Mobile App | :white_check_mark:   | :white_check_mark:   |
-| 58 | Customizable record type | :soon:   | :x:   |
-| 59 | Expander as Multipurpose Sensor | :soon:   | :x:   |
-| 60 | Multi Expander | :white_check_mark:   | :x:   |
+## Core Features
+* Helmet * Carwash * Liquid * ETC.
+* Universal Dynamic timers.
+* Dynamic Process Flow.
+* Pulse type coin and bill compatible.
+* Whitelabelling and pin remapable for custom  boards.
+* Software versioning, use thesame device with new feature updates.
+* Full sales report and (new)remote access v1.1.3.
+* (new)Revoke license v1.1.4.
 
 ## Set jumper pin expander
 ![LCD_EXPANDER_DIRECT_WIRING](https://github.com/user-attachments/assets/72399b09-3b37-4861-a236-9c9545e727c2)
