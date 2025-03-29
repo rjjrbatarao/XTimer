@@ -10,12 +10,13 @@ https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 ## Core Features
 * Helmet * Carwash * Liquid * Perfume * Yosi * ETC.
 * Universal Dynamic timers.
-* Dynamic Process Flow.
+* Advance yet easy to learn UI
+* Dynamic Customizable Process Flow.
 * Pulse type coin and bill compatible.
 * Whitelabelling and pin remapable for custom  boards.
 * Software versioning, use thesame device with new feature updates.
-* Full sales report and (new)remote access v1.1.3.
-* (new)Revoke license v1.1.4.
+* Full sales report and (new)remote access > v1.1.3.
+* (new)Revoke license > v1.1.4.
 
 ## Set jumper pin expander
 ![LCD_EXPANDER_DIRECT_WIRING](https://github.com/user-attachments/assets/72399b09-3b37-4861-a236-9c9545e727c2)
