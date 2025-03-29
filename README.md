@@ -8,7 +8,7 @@ Our mission it to innovate vending businesses, through competitive and highly te
 https://github.com/user-attachments/assets/262ba208-3c66-45b9-939e-5e8c5f0011ca
 
 ## Core Features
-* Helmet * Carwash * Liquid * ETC.
+* Helmet * Carwash * Liquid * Perfume * Yosi * ETC.
 * Universal Dynamic timers.
 * Dynamic Process Flow.
 * Pulse type coin and bill compatible.
