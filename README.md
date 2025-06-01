@@ -1,5 +1,5 @@
 # XTimer
-Free fully advance Do It Yourself multi-timer in 1 vending firmware using ESP32, supports 99% of Custom Boards including JuanFi, Fuxionlab, Naek, Dafox and many other kiosk or piso wifi and base boards. It can be used for Carwash, Helment, Massage Chair or any vending requiring relay and actuators.
+Free fully advance Do It Yourself multi-timer in 1 vending firmware using ESP32 and ESP32S3 N16R8 (V1.2.2), supports 99% of Custom Boards including JuanFi, Fuxionlab, Naek, Dafox and many other kiosk or piso wifi and base boards. It can be used for Carwash, Helment, Massage Chair or any vending requiring relay and actuators.
 
 ## Mission & Vision
 Our mission it to innovate vending businesses, through competitive and highly technologically advance vending timer features. Our vision is to step up product standards and quality for safe and cost effective vending machines.
