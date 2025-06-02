@@ -1,3 +1,5 @@
+[![Production](https://img.shields.io/badge/Production%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Beta](https://img.shields.io/badge/Beta%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Testing](https://img.shields.io/badge/Testing%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 # XTimer
 Free fully advance Do It Yourself multi-timer in 1 vending firmware using ESP32 and ESP32S3 N16R8 (V1.2.2), supports 99% of Custom Boards including JuanFi, Fuxionlab, Naek, Dafox and many other kiosk or piso wifi and base boards. It can be used for Carwash, Helment, Massage Chair or any vending requiring relay and actuators.
 
