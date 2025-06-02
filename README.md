@@ -106,7 +106,8 @@ pin_out_level 1 is logic high, 2 is logic low`
 ![image](https://github.com/user-attachments/assets/d8a68ddd-e1e7-4635-863e-9bd4cd1a20f6)
 `For latest versions we have now implemented web token for authentication you must obtain the access_token first`
 ![image](https://github.com/user-attachments/assets/b8d6334a-0216-41a1-b3a6-fa4b2f655f64)
-
+`You can now use this for all api route requests`
+![image](https://github.com/user-attachments/assets/0376893f-1d03-4008-80ad-64e00fb9bfd6)
 
 
 ## Ai Voice Assist
@@ -118,9 +119,6 @@ If voice is offset use the tagalog_offset.zip
 ## Telegram create bot guide
 `The id and token created here will be used in telegram settings in xtimer`
 ![Telegram-Guide](https://github.com/user-attachments/assets/6aeb9866-3c21-489e-9ce9-97e0de4bab8e)
-`You can now use this for all api route requests`
-![image](https://github.com/user-attachments/assets/0376893f-1d03-4008-80ad-64e00fb9bfd6)
-
 
 ## Free 
 - Free upto 4 relay
