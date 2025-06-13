@@ -136,6 +136,13 @@ If voice is offset use the tagalog_offset.zip
 ## Other materials for operation
 ![Other-Accesories](https://github.com/user-attachments/assets/42fec15b-cd24-4184-b4f2-af965a874af0)
 
+## TODO
+- separate coin process to bill process to enable custom voice on each acceptor
+- finish human presence detector with voice
+- selectable i2c lcd address on each process
+- add more compatible esp32 xx boards
+- design universal controller board
+
 
 
 
