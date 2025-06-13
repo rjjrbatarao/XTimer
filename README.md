@@ -141,6 +141,7 @@ If voice is offset use the tagalog_offset.zip
 - fast coin and fast bill mode
 - finish human presence detector with voice
 - selectable i2c lcd address on each process
+- XL9535 and PCA9555
 - add more compatible esp32 xx boards
 - design universal controller board
 
