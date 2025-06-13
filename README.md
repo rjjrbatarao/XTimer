@@ -138,6 +138,7 @@ If voice is offset use the tagalog_offset.zip
 
 ## TODO
 - separate coin process to bill process to enable custom voice on each acceptor
+- fast coin and fast bill mode
 - finish human presence detector with voice
 - selectable i2c lcd address on each process
 - add more compatible esp32 xx boards
