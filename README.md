@@ -140,10 +140,11 @@ If voice is offset use the tagalog_offset.zip
 - separate coin process to bill process to enable custom voice on each acceptor
 - fast coin and fast bill mode
 - finish human presence detector with voice
-- selectable i2c lcd address on each process
+- `selectable i2c lcd address on each process -- DONE` 
 - XL9535 and PCA9555
-- add more compatible esp32 xx boards
+- `add more compatible esp32 xx boards -- ESP32 S3`
 - design universal controller board
+- disable enable loader option 
 
 
 
